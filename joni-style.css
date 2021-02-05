@@ -1,0 +1,22 @@
+body{
+  background-color: #ffc30b;
+  text-align: center;
+  border: 5px solid purple;
+  font-family: 'Neucha';
+}
+.sentences{color: #93759E;
+  padding-bottom: 10px;
+}
+i{color: white;}
+.skills{color: grey;}
+h1{color: #E6E6FA;
+  text-align: center;
+  font-family: 'Lobster';
+  font-size: 60px;
+  padding: 2px;
+}
+img{border: 3px solid grey;
+  margin-bottom: 50px;
+}
+.link{padding-bottom: 50px;
+}
